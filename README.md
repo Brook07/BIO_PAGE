@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently learning **C++**
 
-- 👯 I 'm currently working on **Banking Project**
+- 👯 I 'm currently working on **My Mind**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Brook07](https://github.com/Brook07)
 
