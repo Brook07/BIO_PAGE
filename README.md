@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Utsav Adhikari</h1>
-<h3 align="center">A Passionate Learner.</h3>
+<h3 align="center">A Passionate Learner</h3>
 
 ![image](https://github.com/user-attachments/assets/2d58c44a-ced2-46ee-8fff-bafac0aa99ad)
 
