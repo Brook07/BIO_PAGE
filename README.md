@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Brook07](https://github.com/Brook07)
 
-- ⚡ Fun fact **NOT A Nerd.**
+- ⚡ Fun fact **⚡ Introvert with extrovert dreams.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
